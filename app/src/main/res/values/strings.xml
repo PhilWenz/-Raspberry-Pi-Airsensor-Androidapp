@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lf7 Sensor Daten</string>
+    <string name="title_home">Live</string>
+    <string name="title_dashboard">Data</string>
+    <string name="title_notifications">Windows</string>
+    <string name="title_Settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_windows_automatically">Open windows automatically</string>
+    <string name="temperature_limit_c">Temperature limit C°</string>
+    <string name="co_limit">CO² limit (ppm)</string>
+
+</resources>
